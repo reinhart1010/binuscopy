@@ -1,5 +1,5 @@
 # binuscopy
-Copy and paste all the notoriously long "obligatory" hashtags found on @binusuniversityofficial's Instagram account. Thank me later.
+Copy and paste all the notoriously long "obligatory" hashtags found on [@binusuniversityofficial's Instagram account](https://www.instagram.com/binusuniversityofficial/). Thank me later.
 
 ```
 #BINUSGROUP
